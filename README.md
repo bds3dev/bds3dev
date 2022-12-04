@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+#### About commits
+> All commits must follow [semantic commit](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
 <!--
-**BRomano/BRomano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bds3dev/bds3dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
